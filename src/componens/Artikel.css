@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+
+.artikel{
+    display: flex;
+    justify-content:center
+
+}
+
+.card{
+    border: 1px solid;
+    text-align: center;
+    margin: 20px;
+    background-color:rgba(97, 57, 116, 0.501);
+    width: 18rem;
+
+}
+
+.img-artikel{
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+}
+.Artikel{
+    display: flex;
+    justify-content:center
+
+}

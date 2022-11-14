@@ -1,0 +1,18 @@
+.card-skill:hover{
+    box-shadow: 10px 10px rgb(91, 111, 139);
+}
+.card-skill > img {
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+}
+.skill {
+    display: flex;
+    justify-content:center
+}
+.card-skill{
+    border: 1px solid;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(147, 164, 190);
+}

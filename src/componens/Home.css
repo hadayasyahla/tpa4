@@ -1,0 +1,14 @@
+.profile {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 13rem;
+    margin-bottom: 13rem;
+}
+
+.img-profile{
+    width: 200px;
+    height:150px;
+    border-radius: 100%;
+    padding: 0px 20px;
+}
